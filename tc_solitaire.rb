@@ -1,5 +1,5 @@
 require 'test/unit'
-require_relative 'solitaire.rb'
+require_relative 'solitaire'
 
 class TestSolitaire < Test::Unit::TestCase
 
